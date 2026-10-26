@@ -1,0 +1,101 @@
+{
+  "responses": [
+    {
+      "summary": "These notes on \"{{title}}\" cover the core idea, the reasons it matters, and how it is applied in practice. Start by getting the main definition clear, then connect each supporting detail back to it. When you review, try to explain each point out loud in one sentence; if you can't, that point needs another pass.",
+      "flashcards": [
+        { "question": "What is the main idea of these notes?", "answer": "The central concept that every other point in the notes builds on." },
+        { "question": "Why does this topic matter?", "answer": "It explains how the individual details fit together and when to apply them." },
+        { "question": "What is a good way to test your understanding?", "answer": "Explain the idea in one sentence without looking at the notes, then give an example." },
+        { "question": "How should you connect the supporting details?", "answer": "Link each detail back to the main idea and note what it adds." },
+        { "question": "What should you do with points you can't explain?", "answer": "Re-read that section, write a short example, and test yourself again later." }
+      ],
+      "quiz": [
+        {
+          "question": "What should you do first when studying these notes?",
+          "options": ["Memorize every detail", "Get the main definition clear", "Skip to the examples", "Read only the last paragraph"],
+          "correctIndex": 1,
+          "explanation": "The main definition is what the supporting details attach to, so it comes first."
+        },
+        {
+          "question": "Which method best checks that you understand a point?",
+          "options": ["Re-reading it twice", "Highlighting it", "Explaining it in one sentence", "Copying it out"],
+          "correctIndex": 2,
+          "explanation": "Explaining a point in your own words shows whether you really understand it."
+        },
+        {
+          "question": "How should supporting details be handled?",
+          "options": ["Studied separately", "Linked back to the main idea", "Ignored", "Memorized in alphabetical order"],
+          "correctIndex": 1,
+          "explanation": "Details stick better when they are connected to the main idea."
+        }
+      ]
+    },
+    {
+      "summary": "\"{{title}}\" breaks down into a few key terms, a process that ties them together, and some common mistakes to avoid. Learn the terms first, then walk through the process step by step, and finish by reviewing the mistakes so you can spot them in practice questions.",
+      "flashcards": [
+        { "question": "What are the three parts these notes are built around?", "answer": "Key terms, the process that links them, and common mistakes." },
+        { "question": "Why learn the key terms first?", "answer": "The rest of the notes use them, so unclear terms make everything else harder." },
+        { "question": "How should you study a process?", "answer": "Walk through it step by step and say why each step follows the previous one." },
+        { "question": "Why review common mistakes?", "answer": "Knowing them helps you catch errors in practice questions and exams." },
+        { "question": "What is spaced repetition?", "answer": "Reviewing material at increasing intervals so it moves into long-term memory." },
+        { "question": "When should you review these notes again?", "answer": "After a day, then after a few days, then after a week." }
+      ],
+      "quiz": [
+        {
+          "question": "What is the best order for studying these notes?",
+          "options": ["Mistakes, process, terms", "Terms, process, mistakes", "Process, mistakes, terms", "Any order works equally well"],
+          "correctIndex": 1,
+          "explanation": "Terms are needed to follow the process, and the mistakes make most sense once you know the process."
+        },
+        {
+          "question": "Why is reviewing common mistakes useful?",
+          "options": ["It makes notes longer", "It helps you spot errors in practice questions", "It replaces learning the terms", "It is only useful after the exam"],
+          "correctIndex": 1,
+          "explanation": "Recognizing typical errors makes them easier to avoid."
+        },
+        {
+          "question": "What does spaced repetition mean?",
+          "options": ["Studying everything the night before", "Reviewing at increasing intervals", "Reading once slowly", "Studying with long breaks and no review"],
+          "correctIndex": 1,
+          "explanation": "Reviewing at growing intervals strengthens long-term memory."
+        },
+        {
+          "question": "What makes it hard to follow the later parts of the notes?",
+          "options": ["Unclear key terms", "Too many examples", "Short sentences", "Reading them twice"],
+          "correctIndex": 0,
+          "explanation": "Later sections rely on the terms, so unclear terms cause confusion throughout."
+        }
+      ]
+    },
+    {
+      "summary": "In \"{{title}}\", the main thread is cause and effect: each idea leads to the next, and the notes end with examples that show the whole chain at work. To study it, draw the chain on a sheet of paper, then close the notes and try to redraw it from memory.",
+      "flashcards": [
+        { "question": "What is the main thread running through these notes?", "answer": "Cause and effect: each idea leads to the next." },
+        { "question": "What do the examples at the end show?", "answer": "The whole chain of ideas working together in a real case." },
+        { "question": "How can you study a chain of ideas?", "answer": "Draw it on paper, then redraw it from memory." },
+        { "question": "What does it mean if you can't redraw part of the chain?", "answer": "That link is weak and needs another review." },
+        { "question": "Why use examples when studying?", "answer": "They turn abstract ideas into something you can picture and remember." }
+      ],
+      "quiz": [
+        {
+          "question": "How do the ideas in these notes relate to each other?",
+          "options": ["They are unrelated", "Each leads to the next", "They repeat each other", "They contradict each other"],
+          "correctIndex": 1,
+          "explanation": "The notes follow a cause-and-effect chain, with each idea leading to the next."
+        },
+        {
+          "question": "What is a good way to test your memory of the chain?",
+          "options": ["Redraw it with the notes closed", "Read it aloud once", "Count the words", "Copy it neatly"],
+          "correctIndex": 0,
+          "explanation": "Recalling the chain without help shows which links you actually know."
+        },
+        {
+          "question": "What is the purpose of the examples?",
+          "options": ["Filling space", "Showing the chain at work", "Replacing the main ideas", "Testing spelling"],
+          "correctIndex": 1,
+          "explanation": "Examples show how the chain of ideas plays out in a real case."
+        }
+      ]
+    }
+  ]
+}
