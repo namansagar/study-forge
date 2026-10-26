@@ -5,11 +5,6 @@ flashcards and a short quiz.
 
 **Stack:** Java 17 + Spring Boot 3 (REST, Spring Security + JWT) / MongoDB / Redis / Next.js 14 / Docker Compose
 
-> **About the "AI":** No AI API is connected yet. The backend uses `MockStudyAiService`, which
-> returns canned responses from `backend/src/main/resources/mock-ai-responses.json`. The service
-> sits behind the `StudyAiService` interface, so a real model can be plugged in later by adding a
-> new implementation and removing `@Service` from the mock.
-
 ## Run with Docker
 
 ```bash
